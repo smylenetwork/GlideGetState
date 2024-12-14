@@ -1,8 +1,8 @@
 [
   {
     "kind": "column",
-    "name": "City Fetch",
-    "description": "Fetch user's City",
+    "name": "State Fetch",
+    "description": "Fetch user's State",
     "author": "Vlad Penev",
     "params": [
     ],
